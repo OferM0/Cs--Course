@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _13._11._2022
 {
-    internal class Class
+    internal class HomeWork
     {
         static void Main(string[] args)
         {

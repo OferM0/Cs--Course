@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Car.cs" />
-    <Compile Include="Class.cs" />
+    <Compile Include="HomeWork.cs" />
     <Compile Include="Pen.cs" />
     <Compile Include="PenBooster.cs" />
     <Compile Include="Program.cs" />
