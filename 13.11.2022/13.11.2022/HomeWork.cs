@@ -8,7 +8,7 @@ namespace _13._11._2022
 {
     internal class HomeWork
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             
             string s1, s2;

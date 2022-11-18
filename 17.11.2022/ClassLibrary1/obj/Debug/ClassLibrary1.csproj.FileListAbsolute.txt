@@ -1,0 +1,6 @@
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

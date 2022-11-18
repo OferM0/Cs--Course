@@ -1,0 +1,12 @@
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\17.11.2022\obj\Debug\17.11.2022.csproj.AssemblyReference.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\17.11.2022\obj\Debug\17.11.2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\17.11.2022\obj\Debug\17.11.2022.csproj.CoreCompileInputs.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\17.11.2022\bin\Debug\17.11.2022.exe.config
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\17.11.2022\bin\Debug\17.11.2022.exe
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\17.11.2022\bin\Debug\17.11.2022.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\17.11.2022\bin\Debug\ClassLibrary1.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\17.11.2022\bin\Debug\ClassLibrary1.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\17.11.2022\obj\Debug\17.11.2022.csproj.CopyComplete
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\17.11.2022\obj\Debug\17.11.2022.exe
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\17.11.2022\obj\Debug\17.11.2022.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\17.11.2022\17.11.2022\bin\Debug\RandomNum.dll
