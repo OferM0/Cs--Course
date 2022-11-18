@@ -117,14 +117,14 @@ namespace _17._11._2022
 
             for (int i = 0; i < 100; i++) //print all details using is and casting
             {
-                if (list[i] is Drink)
+                if (list3[i] is Drink)
                 {
-                    Drink drink = (Drink)list[i];
+                    Drink drink = (Drink)list3[i];
                     Console.WriteLine("Iten number: {0} is a drink item with details: id- {1} name- {2} price- {3} liquidColor- {4}", i, drink.Id, drink.Name, drink.Price, drink.LiquidColor);
                 }
                 else if (list[i] is Food)
                 {
-                    Food food = (Food)list[i];
+                    Food food = (Food)list3[i];
                     Console.WriteLine("Iten number: {0} is a food item with details: id- {1} name- {2} price- {3} weight- {4}", i, food.Id, food.Name, food.Price, food.Weight);
                 }
             }
