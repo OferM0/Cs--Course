@@ -1,0 +1,6 @@
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.DAL\bin\Debug\ProjectStodents.DAL.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.DAL\bin\Debug\ProjectStodents.DAL.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.DAL\obj\Debug\ProjectStodents.DAL.csproj.AssemblyReference.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.DAL\obj\Debug\ProjectStodents.DAL.csproj.CoreCompileInputs.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.DAL\obj\Debug\ProjectStodents.DAL.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.DAL\obj\Debug\ProjectStodents.DAL.pdb

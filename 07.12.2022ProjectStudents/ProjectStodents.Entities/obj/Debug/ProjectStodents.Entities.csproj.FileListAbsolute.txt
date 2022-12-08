@@ -1,0 +1,11 @@
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.Entities\bin\Debug\ProjectStodents.Entities.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.Entities\bin\Debug\ProjectStodents.Entities.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.Entities\bin\Debug\ProjectStodents.DAL.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.Entities\bin\Debug\ProjectStudents.Model.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.Entities\bin\Debug\ProjectStodents.DAL.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.Entities\bin\Debug\ProjectStudents.Model.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.Entities\obj\Debug\ProjectStodents.Entities.csproj.AssemblyReference.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.Entities\obj\Debug\ProjectStodents.Entities.csproj.CoreCompileInputs.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.Entities\obj\Debug\ProjectStodents.Entities.csproj.CopyComplete
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.Entities\obj\Debug\ProjectStodents.Entities.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\07.12.2022ProjectStudents\ProjectStodents.Entities\obj\Debug\ProjectStodents.Entities.pdb
