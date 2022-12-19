@@ -1,0 +1,11 @@
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.Entities\bin\Debug\QueueFiles.Entities.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.Entities\bin\Debug\QueueFiles.Entities.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.Entities\bin\Debug\QueueFiles.Dal.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.Entities\bin\Debug\QueueFiles.Model.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.Entities\bin\Debug\QueueFiles.Dal.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.Entities\bin\Debug\QueueFiles.Model.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.Entities\obj\Debug\QueueFiles.Entities.csproj.AssemblyReference.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.Entities\obj\Debug\QueueFiles.Entities.csproj.CoreCompileInputs.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.Entities\obj\Debug\QueueFiles.Entities.csproj.CopyComplete
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.Entities\obj\Debug\QueueFiles.Entities.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.Entities\obj\Debug\QueueFiles.Entities.pdb

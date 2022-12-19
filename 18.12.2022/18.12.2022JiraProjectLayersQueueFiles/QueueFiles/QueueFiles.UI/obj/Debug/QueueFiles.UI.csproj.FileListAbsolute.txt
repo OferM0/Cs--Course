@@ -1,0 +1,16 @@
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\bin\Debug\QueueFiles.UI.exe.config
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\bin\Debug\QueueFiles.UI.exe
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\bin\Debug\QueueFiles.UI.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\bin\Debug\QueueFiles.Entities.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\bin\Debug\QueueFiles.Model.dll
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\bin\Debug\QueueFiles.Entities.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\bin\Debug\QueueFiles.Model.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\obj\Debug\QueueFiles.UI.csproj.AssemblyReference.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\obj\Debug\QueueFiles.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\obj\Debug\QueueFiles.UI.Form1.resources
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\obj\Debug\QueueFiles.UI.Properties.Resources.resources
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\obj\Debug\QueueFiles.UI.csproj.GenerateResource.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\obj\Debug\QueueFiles.UI.csproj.CoreCompileInputs.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\obj\Debug\QueueFiles.UI.csproj.CopyComplete
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\obj\Debug\QueueFiles.UI.exe
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\18.12.2022JiraProjectLayersQueueFiles\QueueFiles\QueueFiles.UI\obj\Debug\QueueFiles.UI.pdb
