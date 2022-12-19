@@ -16,6 +16,7 @@ namespace _15._12._2022WinFormDB
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            //Application.Run(new frmMain());
             Application.Run(new frmHost());
         }
     }

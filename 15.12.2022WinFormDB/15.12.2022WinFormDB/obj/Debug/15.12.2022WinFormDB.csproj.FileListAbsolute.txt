@@ -1,0 +1,13 @@
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\bin\Debug\15.12.2022WinFormDB.exe.config
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\bin\Debug\15.12.2022WinFormDB.exe
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\bin\Debug\15.12.2022WinFormDB.pdb
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\obj\Debug\15.12.2022WinFormDB.csproj.AssemblyReference.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\obj\Debug\15.12.2022WinFormDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\obj\Debug\_15._12._2022WinFormDB.frmCategory.resources
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\obj\Debug\_15._12._2022WinFormDB.frmHost.resources
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\obj\Debug\_15._12._2022WinFormDB.frmMain.resources
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\obj\Debug\_15._12._2022WinFormDB.Properties.Resources.resources
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\obj\Debug\15.12.2022WinFormDB.csproj.GenerateResource.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\obj\Debug\15.12.2022WinFormDB.csproj.CoreCompileInputs.cache
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\obj\Debug\15.12.2022WinFormDB.exe
+C:\Users\oferm\source\repos\C learning\SEMESTER 2\C#\15.12.2022WinFormDB\15.12.2022WinFormDB\obj\Debug\15.12.2022WinFormDB.pdb

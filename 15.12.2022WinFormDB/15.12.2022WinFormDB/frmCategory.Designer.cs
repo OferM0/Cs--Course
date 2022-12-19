@@ -28,108 +28,134 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.lblCategory = new System.Windows.Forms.Label();
+            this.txtDish = new System.Windows.Forms.TextBox();
             this.add = new System.Windows.Forms.Button();
             this.confirm = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.dataGridView2 = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
+            this.btnNext = new System.Windows.Forms.Button();
+            this.btnPrev = new System.Windows.Forms.Button();
+            this.dataAll = new System.Windows.Forms.DataGridView();
+            this.dataGuest = new System.Windows.Forms.DataGridView();
+            this.lblGuest = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.dataAll)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGuest)).BeginInit();
             this.SuspendLayout();
             // 
-            // label1
+            // lblCategory
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(344, 11);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(113, 25);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "שם קטגוריה";
+            this.lblCategory.AutoSize = true;
+            this.lblCategory.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategory.Location = new System.Drawing.Point(344, 11);
+            this.lblCategory.Name = "lblCategory";
+            this.lblCategory.Size = new System.Drawing.Size(113, 25);
+            this.lblCategory.TabIndex = 0;
+            this.lblCategory.Text = "Category: ";
             // 
-            // textBox1
+            // txtDish
             // 
-            this.textBox1.Location = new System.Drawing.Point(335, 206);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(131, 22);
-            this.textBox1.TabIndex = 1;
+            this.txtDish.Location = new System.Drawing.Point(335, 210);
+            this.txtDish.Name = "txtDish";
+            this.txtDish.Size = new System.Drawing.Size(131, 22);
+            this.txtDish.TabIndex = 1;
+            this.txtDish.Visible = false;
             // 
             // add
             // 
-            this.add.Location = new System.Drawing.Point(512, 196);
+            this.add.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.add.Location = new System.Drawing.Point(495, 206);
             this.add.Name = "add";
-            this.add.Size = new System.Drawing.Size(100, 40);
+            this.add.Size = new System.Drawing.Size(100, 30);
             this.add.TabIndex = 2;
             this.add.Text = "הוספת מאכל";
-            this.add.UseVisualStyleBackColor = true;
+            this.add.UseVisualStyleBackColor = false;
+            this.add.Click += new System.EventHandler(this.add_Click);
             // 
             // confirm
             // 
-            this.confirm.Location = new System.Drawing.Point(195, 196);
+            this.confirm.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.confirm.Location = new System.Drawing.Point(195, 206);
             this.confirm.Name = "confirm";
-            this.confirm.Size = new System.Drawing.Size(100, 40);
+            this.confirm.Size = new System.Drawing.Size(100, 30);
             this.confirm.TabIndex = 3;
             this.confirm.Text = "אישור";
-            this.confirm.UseVisualStyleBackColor = true;
+            this.confirm.UseVisualStyleBackColor = false;
+            this.confirm.Visible = false;
+            this.confirm.Click += new System.EventHandler(this.confirm_Click);
             // 
-            // button1
+            // btnNext
             // 
-            this.button1.Location = new System.Drawing.Point(626, 403);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnNext.BackColor = System.Drawing.Color.CadetBlue;
+            this.btnNext.Location = new System.Drawing.Point(456, 408);
+            this.btnNext.Name = "btnNext";
+            this.btnNext.Size = new System.Drawing.Size(120, 30);
+            this.btnNext.TabIndex = 6;
+            this.btnNext.Text = ">>>>";
+            this.btnNext.UseVisualStyleBackColor = false;
+            this.btnNext.Click += new System.EventHandler(this.btnNext_Click);
             // 
-            // button2
+            // btnPrev
             // 
-            this.button2.Location = new System.Drawing.Point(131, 403);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnPrev.BackColor = System.Drawing.Color.CadetBlue;
+            this.btnPrev.Location = new System.Drawing.Point(212, 408);
+            this.btnPrev.Name = "btnPrev";
+            this.btnPrev.Size = new System.Drawing.Size(120, 30);
+            this.btnPrev.TabIndex = 7;
+            this.btnPrev.Text = "<<<<";
+            this.btnPrev.UseVisualStyleBackColor = false;
+            this.btnPrev.Click += new System.EventHandler(this.btnPrev_Click);
             // 
-            // dataGridView1
+            // dataAll
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(195, 50);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersWidth = 51;
-            this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(400, 120);
-            this.dataGridView1.TabIndex = 8;
+            this.dataAll.BackgroundColor = System.Drawing.Color.Moccasin;
+            this.dataAll.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataAll.Location = new System.Drawing.Point(195, 40);
+            this.dataAll.Name = "dataAll";
+            this.dataAll.RowHeadersWidth = 51;
+            this.dataAll.RowTemplate.Height = 24;
+            this.dataAll.Size = new System.Drawing.Size(400, 150);
+            this.dataAll.TabIndex = 8;
+            this.dataAll.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataAll_CellDoubleClick);
             // 
-            // dataGridView2
+            // dataGuest
             // 
-            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Location = new System.Drawing.Point(195, 267);
-            this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.RowHeadersWidth = 51;
-            this.dataGridView2.RowTemplate.Height = 24;
-            this.dataGridView2.Size = new System.Drawing.Size(400, 120);
-            this.dataGridView2.TabIndex = 9;
+            this.dataGuest.BackgroundColor = System.Drawing.Color.Moccasin;
+            this.dataGuest.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGuest.Location = new System.Drawing.Point(195, 252);
+            this.dataGuest.Name = "dataGuest";
+            this.dataGuest.RowHeadersWidth = 51;
+            this.dataGuest.RowTemplate.Height = 24;
+            this.dataGuest.Size = new System.Drawing.Size(400, 150);
+            this.dataGuest.TabIndex = 9;
+            this.dataGuest.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGuest_CellDoubleClick);
+            // 
+            // lblGuest
+            // 
+            this.lblGuest.AutoSize = true;
+            this.lblGuest.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblGuest.Location = new System.Drawing.Point(12, 11);
+            this.lblGuest.Name = "lblGuest";
+            this.lblGuest.Size = new System.Drawing.Size(144, 25);
+            this.lblGuest.TabIndex = 10;
+            this.lblGuest.Text = "Guest Name: ";
             // 
             // frmCategory
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.dataGridView2);
-            this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.lblGuest);
+            this.Controls.Add(this.dataGuest);
+            this.Controls.Add(this.dataAll);
+            this.Controls.Add(this.btnPrev);
+            this.Controls.Add(this.btnNext);
             this.Controls.Add(this.confirm);
             this.Controls.Add(this.add);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.txtDish);
+            this.Controls.Add(this.lblCategory);
             this.Name = "frmCategory";
             this.Text = "frmCategory";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataAll)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGuest)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -137,13 +163,14 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label lblCategory;
+        private System.Windows.Forms.TextBox txtDish;
         private System.Windows.Forms.Button add;
         private System.Windows.Forms.Button confirm;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.DataGridView dataGridView2;
+        private System.Windows.Forms.Button btnNext;
+        private System.Windows.Forms.Button btnPrev;
+        private System.Windows.Forms.DataGridView dataAll;
+        private System.Windows.Forms.DataGridView dataGuest;
+        private System.Windows.Forms.Label lblGuest;
     }
 }
